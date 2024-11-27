@@ -1,0 +1,44 @@
+[
+  {
+    "tag": "h1",
+    "children": {
+      "en": "Title h1",
+      "ru": "Заголовок h1"
+    }
+  },
+  {
+    "tag": "p",
+    "children": {
+      "en": "Text - paragraph",
+      "ru": "Текст - параграф"
+    }
+  },
+  {
+    "tag": "p",
+    "children": {
+      "en": "any text",
+      "ru": "другой текст"
+    }
+  },
+  {
+    "tag": "h2",
+    "children": {
+      "en": "Title h2",
+      "ru": "Заголовок h2"
+    }
+  },
+  {
+    "tag": "p",
+    "children": {
+      "en": "Text - paragraph",
+      "ru": "Текст - параграф"
+    }
+  },
+  {
+    "tag": "p",
+    "children": {
+      "en": "any text",
+      "ru": "другой текст"
+    }
+  }
+]

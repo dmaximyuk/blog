@@ -1,0 +1,24 @@
+{
+  "author": {
+    "first_name": {
+      "en": "Dmitry",
+      "ru": "Дмитрий"
+    },
+    "last_name": {
+      "en": "Maximyuk",
+      "ru": "Максимюк"
+    }
+  },
+  "posts": [
+    {
+      "id": 1,
+      "img": "https://placehold.co/1280x720",
+      "publishAt": "",
+
+      "title": {
+        "en": "Test post 1",
+        "ru": "Тест пост 1"
+      }
+    }
+  ]
+}
