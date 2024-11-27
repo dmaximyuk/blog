@@ -13,11 +13,16 @@
     {
       "id": 1,
       "img": "https://placehold.co/1280x720",
+      "tags": ["development", "react", "other", "blog"],
       "publishAt": "",
 
       "title": {
         "en": "Test post 1",
         "ru": "Тест пост 1"
+      },
+      "description": {
+        "en": "Test description",
+        "ru": "Тестовое описание"
       }
     }
   ]
